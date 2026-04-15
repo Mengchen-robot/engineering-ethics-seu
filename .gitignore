@@ -1,0 +1,17 @@
+# Archive files
+*.zip
+
+# Image files
+*.png
+*.jpeg
+*.jpg
+
+# Document files
+*.doc
+*.docx
+
+# Claude files
+.cluade
+
+# Log files
+*.log
